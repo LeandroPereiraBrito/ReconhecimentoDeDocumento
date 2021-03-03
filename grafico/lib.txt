@@ -1,0 +1,27 @@
+Visão computacional 
+pip install opencv-python 
+pip install keras
+pip install tensorflow
+pip install Pillow
+pip install pytesseract
+
+MAchine learning
+	pip install pandas 
+pip install numpy
+pip install sklearning
+pip install spacy
+pip install nltk
+pip install matplotlib
+
+
+
+Atualizações 
+	pip install --upgrade pip
+
+Uteis
+   	pip install unicodedata2
+
+Leitura  de PDF
+pip install cmake
+pip install python-poppler
+pip install textract
