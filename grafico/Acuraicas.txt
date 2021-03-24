@@ -1,5 +1,0 @@
-tempo medio de processo 
-tempo final de processo 
-tempo de etapa 
-quatidade de erros
-Valor pago para o wizz 
