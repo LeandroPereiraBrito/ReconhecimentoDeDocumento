@@ -1,0 +1,3 @@
+import processamento
+
+processamento.resetImagenDir()
